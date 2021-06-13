@@ -1,6 +1,6 @@
-# colormemory
+# Color Memory
 
-Description here.
+This is technical exam for Accedo.tv
 
 ## Getting Started
 
